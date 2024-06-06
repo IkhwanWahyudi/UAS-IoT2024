@@ -7,7 +7,9 @@
 2109106098 - Irfan Arman Hidayat
 
 Skematik:
+
 ![image](https://github.com/IkhwanWahyudi/UAS-IoT2024/assets/113562288/3df8064e-9636-43ff-8c7c-e6cc4ddaa8e9)
 
 Design Aplikasi:
+
 ![image](https://github.com/IkhwanWahyudi/UAS-IoT2024/assets/113562288/1e6b38db-3a7e-4760-b5ca-b2c7ffc9b790)
